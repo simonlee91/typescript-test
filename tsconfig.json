@@ -1,5 +1,8 @@
 {
   "compilerOptions": {
-    "target": "esnext"
+    "target": "ES5",
+    "module": "commonjs",
+    "strict": true,
+    "esMOduleInterop": true
   }
 }
